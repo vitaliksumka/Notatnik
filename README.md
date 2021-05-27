@@ -1,5 +1,5 @@
 # Notatnik
-- Obecnie zaimplementowano następujące funkcje:
+> Obecnie zaimplementowano następujące funkcje:
 * Interfejs projektowania materiałów
 * Podstawowe czynności polegające na dodawaniu, zmienianiu, archiwizowaniu, usuwaniu i usuwaniu notatek
 * Udostępniaj, łącz i wyszukuj notatki
