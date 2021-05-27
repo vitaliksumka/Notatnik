@@ -1,4 +1,4 @@
-# Gra "Kółko i krzyżyk"
+# Notatnik
 
 
 ## Table of Contents
@@ -21,7 +21,13 @@
 
 ## Screenshots
 > Funkcjonalność aplikacji
-- 
+![1](https://user-images.githubusercontent.com/61744465/119876971-c20a8b00-bf28-11eb-86af-9087c3ca698a.png)
+![2](https://user-images.githubusercontent.com/61744465/119876983-c636a880-bf28-11eb-926a-102bf0dbb2cc.png)
+![3](https://user-images.githubusercontent.com/61744465/119876988-c767d580-bf28-11eb-9164-b175a864188d.png)
+![4](https://user-images.githubusercontent.com/61744465/119876993-c8990280-bf28-11eb-8a6b-c9f04d3c475d.png)
+
+
+
 
 
 
