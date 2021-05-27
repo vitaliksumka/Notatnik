@@ -11,7 +11,7 @@
 * Eksportuj / importuj notatki do kopii zapasowej
 * Integracja z Google Now: po prostu powiedz „napisz notatkę”, a następnie określ treść
 * Wiele widżetów, rozszerzenie DashClock, kompatybilność z zablokowanym ekranem Android 4.2
-* Wielojęzyczny: ponad 30 obsługiwanych języków: https://crowdin.com/project/omni-notes
+
 
 ## Table of Contents
 * [General Info](#general-information)
