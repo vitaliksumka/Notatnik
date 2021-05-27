@@ -1,5 +1,17 @@
 # Notatnik
-
+- Obecnie zaimplementowano następujące funkcje:
+* Interfejs projektowania materiałów
+* Podstawowe czynności polegające na dodawaniu, zmienianiu, archiwizowaniu, usuwaniu i usuwaniu notatek
+* Udostępniaj, łącz i wyszukuj notatki
+* Załączone obrazy, audio i udostępnione pliki
+* Zarządzaj notatkami za pomocą tagów i kategorii
+* Lista rzeczy do zrobienia
+* Tryb szkicowania
+* Skrót do notatek na ekranie głównym
+* Eksportuj / importuj notatki do kopii zapasowej
+* Integracja z Google Now: po prostu powiedz „napisz notatkę”, a następnie określ treść
+* Wiele widżetów, rozszerzenie DashClock, kompatybilność z zablokowanym ekranem Android 4.2
+* Wielojęzyczny: ponad 30 obsługiwanych języków: https://crowdin.com/project/omni-notes
 
 ## Table of Contents
 * [General Info](#general-information)
